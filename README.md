@@ -26,9 +26,9 @@ Exemplos de chamada postman para teste:
 ## Colaboradores
 | Colaborador | Github | Telefone |
 | ------ | ------ | ------ |
-| Fernando Gatti | [fernandodgatti][Gatti] | 11 953448553 |
-| Henrique Abdala | [henriqueabdala][Abdala] | 11 975581678 |
-| Iller Boromello | [boromello][Boromello] | 11 984559040 |
+| Fernando Gatti | [fernandodgatti] [Gatti] | 11 953448553 |
+| Henrique Abdala | [henriqueabdala] [Abdala] | 11 975581678 |
+| Iller Boromello | [boromello] [Boromello] | 11 984559040 |
 
 Professor Jose Castillo Lema
 
