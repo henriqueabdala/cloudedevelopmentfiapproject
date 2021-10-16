@@ -37,7 +37,6 @@ Licença
 FIAP
 
 
-
    [Gatti]: <https://github.com/fernandodgatti>
    [Abdala]: <https://github.com/henriqueabdala>
    [Boromello]: <https://github.com/Boromello>
