@@ -1,6 +1,6 @@
 # AWS (BeanStalk + DBaaS MySql + CodePipeline)
 
-Aplicação simples de CRUD para rodando no beanstalk fazendo uso do banco de dados relacional mysql.
+Aplicação simples de CRUD para rodando no beanstalk fazendo uso do RDS para banco de dados relacional mysql.
 Obs: O codepipeline está funcionando, porém precisa lançar alteração na esteira da AWS, por algum motivo ao dar o commit não está startando de forma automática a pipe. Acreditamos que seja pelo motivo de selecionar o provider github V1, que não é mais indicado pela AWS, porém, a nossa conta não permite selecionar outro provider.
 
 ## Executar o projeto 
