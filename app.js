@@ -20,7 +20,7 @@ app.use('/item', routes)
 
 // root path
 app.get("/", (req, res, next) => {
-	res.json("What's up?");
+	res.json("FIAP - Bem vindo!");
 });
 
 server.listen(port, () => {
